@@ -1,0 +1,40 @@
+[
+    {
+        "Name": "Cristiano Ronaldo",
+        "Sport": "FootBall",
+        "dateofbirth": "5th February 1985",
+        "trophieswon":"32 trophies",
+        "image":"image_1"
+    },
+    {
+        "Name": "Lionel Messi",
+        "Sport": "FootBall",
+        "dateofbirth": "24th June 1987",
+        "trophieswon":"35 trophies",
+        "image":"image_2"
+    },
+    {
+        "Name": "Neymar",
+        "Sport": "FootBall",
+        "dateofbirth": "5th February 1992",
+        "trophieswon":"19 trophies",
+        "image":"image_3"
+    },
+    {
+        "Name": "MS Dhoni",
+        "Sport": "Cricket",
+        "dateofbirth": "7th July 1981",
+        "trophieswon":"16 trophies",
+        "image":"image_4"
+    },
+    {
+        "Name": "Virat Kohli",
+        "Sport": "Cricket",
+        "dateofbirth": "5th November 1988",
+        "trophieswon":"19 trophies",
+        "image":"image_5"
+    }
+    
+    
+
+]
